@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Former ABAPer, actual web full stack, eternal student</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ximitti&label=Profile%20views&color=0e75b6&style=flat" alt="ximitti" /> </p>
 
